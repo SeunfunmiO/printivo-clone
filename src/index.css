@@ -413,7 +413,7 @@ footer a {
   }
 
   .navbar-image {
-    gap: 68px !important;
+    gap: 60px !important;
   }
 
   .image-content {
@@ -503,14 +503,6 @@ footer a {
   }
 }
 
-@media screen and (max-width:390px) {
-  .article{
-    grid-template-columns: 1fr;
-  }
-  .navbar-image{
-    gap: 68px !important;
-  }
-}
 
 @media screen and (max-width:375px) {
   .navbar-image {
