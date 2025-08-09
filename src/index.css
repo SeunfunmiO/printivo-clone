@@ -413,7 +413,7 @@ footer a {
   }
 
   .navbar-image {
-    gap: 80px !important;
+    gap: 75px !important;
   }
 
   .image-content {
@@ -456,7 +456,7 @@ footer a {
   .product-card a {
     display: flex;
     align-items: center;
-    width: 53vw;
+    width: 55vw;
     font-size: 14px;
     justify-content: center;
     text-align: center;
@@ -491,7 +491,7 @@ footer a {
   }
 
   .article {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
   }
 
   .footerTitle {
