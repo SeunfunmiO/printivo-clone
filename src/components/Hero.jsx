@@ -18,8 +18,8 @@ const Hero = () => {
                         <p className="card-text ">STARTING AT</p>
                         <span className='fs-5' style={{ fontWeight: "bold" }}>₦15,100 </span>
                         <span className='text-muted fs-6'>per 100</span>
-                        <a href="#" className="btn  border-0 mt-4">Browse Two-sided Bu...
-                            <i class="fa-solid fa-angle-right ms-2"></i>
+                        <a href="#" className="btn icon-link icon-link-hover border-0 mt-4">Browse Two-sided Bu...
+                            <i class="fa-solid fa-angle-right ms-2 bi" aria-hidden="true"></i>
                         </a>
                     </div>
                 </div>
@@ -31,7 +31,7 @@ const Hero = () => {
                         <p className="card-text ">STARTING AT</p>
                         <span className='fs-5' style={{ fontWeight: "bold" }}>₦25,800 </span>
                         <span className='text-muted fs-6'>per 100</span>
-                        <a href="#" className="btn  border-0 mt-4">Browse A5 flyers (S... <i class="fa-solid fa-angle-right ms-2"></i></a>
+                        <a href="#" className="btn icon-link icon-link-hover  border-0 mt-4">Browse A5 flyers (S... <i class="fa-solid fa-angle-right ms-2 bi" aria-hidden="true"></i></a>
                     </div>
                 </div>
                 <div className="card shadow shadow-sm mt-3" >
@@ -41,7 +41,7 @@ const Hero = () => {
                         <p className="card-text ">STARTING AT</p>
                         <span className='fs-5' style={{ fontWeight: "bold" }}>₦17,000  </span>
                         <span className='text-muted fs-6'>per 100</span>
-                        <a href="#" className="btn  border-0 mt-4">Browse Round Sticke... <i class="fa-solid fa-angle-right ms-2"></i></a>
+                        <a href="#" className="btn icon-link icon-link-hover  border-0 mt-4">Browse Round Sticke... <i class="fa-solid fa-angle-right ms-2 bi" aria-hidden="true"></i></a>
                     </div>
                 </div>
                 <div className="card shadow shadow-sm mt-3" >
@@ -51,7 +51,7 @@ const Hero = () => {
                         <p className="card-text ">STARTING AT</p>
                         <span className='fs-5' style={{ fontWeight: "bold" }}>₦4,800 </span>
                         <span className='text-muted fs-6'>per 100</span>
-                        <a href="#" className="btn  border-0 mt-4">Browse Simple Mugs <i class="fa-solid fa-angle-right ms-2"></i></a>
+                        <a href="#" className="btn icon-link icon-link-hover border-0 mt-4">Browse Simple Mugs <i class="fa-solid fa-angle-right ms-2 bi" aria-hidden="true"></i></a>
                     </div>
                 </div>
                 <div className="card shadow shadow-sm mt-3" >
@@ -61,7 +61,7 @@ const Hero = () => {
                         <p className="card-text ">STARTING AT</p>
                         <span className='fs-5' style={{ fontWeight: "bold" }}>₦22,300 </span>
                         <span className='text-muted fs-6'>per 50</span>
-                        <a href="#" className="btn  border-0 mt-4">Browse Postcards (A... <i class="fa-solid fa-angle-right ms-2"></i></a>
+                        <a href="#" className="btn icon-link icon-link-hover border-0 mt-4">Browse Postcards (A... <i class="fa-solid fa-angle-right ms-2 bi" aria-hidden="true"></i></a>
                     </div>
                 </div>
                 <div className="card shadow shadow-sm mt-3" >
@@ -71,7 +71,7 @@ const Hero = () => {
                         <p className="card-text ">STARTING AT</p>
                         <span className='fs-5' style={{ fontWeight: "bold" }}>₦65,500</span>
                         <span className='text-muted fs-6'>per 1</span>
-                        <a href="#" className="btn  border-0 mt-4">Browse Roll Up Bann... <i class="fa-solid fa-angle-right ms-2"></i></a>
+                        <a href="#" className="btn icon-link icon-link-hover border-0 mt-4">Browse Roll Up Bann... <i class="fa-solid fa-angle-right ms-2 bi" aria-hidden="true"></i></a>
                     </div>
                 </div>
                 <div className="card shadow shadow-sm mt-3" >
@@ -81,7 +81,7 @@ const Hero = () => {
                         <p className="card-text ">STARTING AT</p>
                         <span className='fs-5' style={{ fontWeight: "bold" }}>₦71,100</span>
                         <span className='text-muted fs-6'>per 100</span>
-                        <a href="#" className="btn  border-0 mt-4">Browse A2 Posters <i class="fa-solid fa-angle-right ms-2"></i></a>
+                        <a href="#" className="btn icon-link icon-link-hover border-0 mt-4">Browse A2 Posters <i class="fa-solid fa-angle-right ms-2 bi" aria-hidden="true"></i></a>
                     </div>
                 </div>
                 <div className="card shadow shadow-sm mt-3" >
@@ -91,7 +91,7 @@ const Hero = () => {
                         <p className="card-text ">STARTING AT</p>
                         <span className='fs-5' style={{ fontWeight: "bold" }}>₦47,500 </span>
                         <span className='text-muted fs-6'>per 100</span>
-                        <a href="#" className="btn  border-0 mt-4">Browse Trifold Broc... <i class="fa-solid fa-angle-right ms-2"></i></a>
+                        <a href="#" className="btn icon-link icon-link-hover border-0 mt-4">Browse Trifold Broc... <i class="fa-solid fa-angle-right ms-2 bi" aria-hidden="true"></i></a>
                     </div>
                 </div>
                 <div className="card shadow shadow-sm mt-3" >
@@ -101,7 +101,7 @@ const Hero = () => {
                         <p className="card-text ">STARTING AT</p>
                         <span className='fs-5' style={{ fontWeight: "bold" }}>₦4,500 </span>
                         <span className='text-muted fs-6'>per 1</span>
-                        <a href="#" className="btn  border-0 mt-4">Browse Landscape ID... <i class="fa-solid fa-angle-right ms-2"></i></a>
+                        <a href="#" className="btn icon-link icon-link-hover border-0 mt-4">Browse Landscape ID... <i class="fa-solid fa-angle-right ms-2 bi" aria-hidden="true"></i></a>
                     </div>
                 </div>
                 <div className="card shadow shadow-sm mt-3">
@@ -111,7 +111,7 @@ const Hero = () => {
                         <p className="card-text ">STARTING AT</p>
                         <span className='fs-5' style={{ fontWeight: "bold" }}>₦6,000 </span>
                         <span className='text-muted fs-6'>per 1</span>
-                        <a href="#" className="btn  border-0 mt-4">Browse Off White T-...<i class="fa-solid fa-angle-right ms-2"></i></a>
+                        <a href="#" className="btn icon-link icon-link-hover border-0 mt-4">Browse Off White T-...<i class="fa-solid fa-angle-right ms-2 bi" aria-hidden="true"></i></a>
                     </div>
                 </div>
                 <div className="card shadow shadow-sm mt-3" >
@@ -121,7 +121,7 @@ const Hero = () => {
                         <p className="card-text ">STARTING AT</p>
                         <span className='fs-5' style={{ fontWeight: "bold" }}>₦115,280 </span>
                         <span className='text-muted fs-6'>per 100</span>
-                        <a href="#" className="btn  border-0 mt-4">Browse A4 Branded P... <i class="fa-solid fa-angle-right ms-2"></i></a>
+                        <a href="#" className="btn icon-link icon-link-hover border-0 mt-4">Browse A4 Branded P... <i class="fa-solid fa-angle-right ms-2 bi" aria-hidden="true"></i></a>
                     </div>
                 </div>
                 <div className="card shadow shadow-sm mt-3">
@@ -131,7 +131,7 @@ const Hero = () => {
                         <p className="card-text ">STARTING AT</p>
                         <span className='fs-5' style={{ fontWeight: "bold" }}>₦27,500 </span>
                         <span className='text-muted fs-6'>per 100</span>
-                        <a href="#" className="btn  border-0 mt-4">Browse A4 Courier B...<i class="fa-solid fa-angle-right ms-2"></i></a>
+                        <a href="#" className="btn icon-link icon-link-hover border-0 mt-4">Browse A4 Courier B...<i class="fa-solid fa-angle-right ms-2 bi" aria-hidden="true"></i></a>
                     </div>
                 </div>
             </div>
@@ -151,7 +151,7 @@ const Hero = () => {
                         <p className="card-text ">STARTING AT</p>
                         <span className='fs-5' style={{ fontWeight: "bold" }}>₦29,800 </span>
                         <span className='text-muted fs-6'>per 50</span>
-                        <a href="#" className="btn  border-0 mt-4">Browse Greeting Car... <i class="fa-solid fa-angle-right ms-2"></i></a>
+                        <a href="#" className="btn icon-link icon-link-hover border-0 mt-4">Browse Greeting Car... <i class="fa-solid fa-angle-right ms-2 bi" aria-hidden="true"></i></a>
                     </div>
                 </div>
 
@@ -162,7 +162,7 @@ const Hero = () => {
                         <p className="card-text ">STARTING AT</p>
                         <span className='fs-5' style={{ fontWeight: "bold" }}>₦5,400 </span>
                         <span className='text-muted fs-6'>per 75</span>
-                        <a href="#" className="btn  border-0 mt-4">Browse Stickers <i class="fa-solid fa-angle-right ms-2"></i></a>
+                        <a href="#" className="btn icon-link icon-link-hover border-0 mt-4">Browse Stickers <i class="fa-solid fa-angle-right ms-2 bi" aria-hidden="true"></i></a>
                     </div>
                 </div>
             </div>
